@@ -1,4 +1,4 @@
-# erp-project-react
+# erp-project-react-redux-ts
 
 This project has a pretention to become a simple ERP, with react.
 
@@ -21,5 +21,3 @@ In the project directory, you can run:
 - `npm run build`
 
 - `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
